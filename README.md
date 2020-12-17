@@ -1,4 +1,4 @@
-# Forecasting CO2
+# Forecasting atmospheric CO2 levels between now and 2060
 
 Since 1958 atmospheric carbon dioxide measurements have been recorded at the Mauna Loa Observatory in
 Hawaii. CO2 levels have been increasing steadily since the start of the industrial revolution in the 18th century. Older data are from ice core measurements, not
